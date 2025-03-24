@@ -1,0 +1,51 @@
+{
+  "user": {
+    "id": 1,
+    "name": "João Silva",
+    "email": "joao.silva@email.com"
+  },
+  "bookLists": {
+    "wishlist": [
+      {
+        "id": 101,
+        "title": "Dom Quixote",
+        "author": "Miguel de Cervantes",
+        "year": 1605
+      },
+      {
+        "id": 102,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949
+      }
+    ],
+    "toRead": [
+      {
+        "id": 103,
+        "title": "O Senhor dos Anéis",
+        "author": "J.R.R. Tolkien",
+        "year": 1954
+      }
+    ],
+    "reading": [
+      {
+        "id": 104,
+        "title": "Crime e Castigo",
+        "author": "Fiódor Dostoiévski",
+        "year": 1866,
+        "progress": "55%"
+      }
+    ],
+    "read": [
+      {
+        "id": 105,
+        "title": "Orgulho e Preconceito",
+        "author": "Jane Austen",
+        "year": 1813,
+        "rating": 5,
+        "review": "Um clássico envolvente e muito bem escrito."
+      }
+    ]
+  }
+}
+
